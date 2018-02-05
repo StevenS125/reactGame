@@ -1,0 +1,3 @@
+targets:
+  prod: shared-ap-northeast-1/cjdandg021g940151jda1dtxk
+  default: prod
